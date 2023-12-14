@@ -1,5 +1,5 @@
 
-Certainly! Here's a very brief overview of setting up AWS Route 53 using Terraform:
+This is a brief Instruction how to install terraform etc.
 
 Install Terraform:
 Ensure you have Terraform installed on your local machine. You can download it from the official website: Terraform Downloads.
